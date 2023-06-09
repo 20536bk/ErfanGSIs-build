@@ -13,8 +13,8 @@ on:
   workflow_dispatch
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip
-  ROM_NAME: flyme
+  ROM_URL: https://o2fqi497me7q78m3s3ea3r83o6plm9hanolt692tl6p7cdv9vqlfvrn3.qc.dolfincdnx.net:10443/xdispatch6f0657c96f06a757/bigota.d.miui.com/9.12.19/miui_CEPHEUS_9.12.19_282af25461_10.0.zip?bsreqid=a9e0c32d9728d30313efcd2cc50be9f7&bsxdisp=se
+  ROM_NAME: Miui
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
