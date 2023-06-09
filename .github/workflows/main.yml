@@ -14,7 +14,7 @@ on:
     
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu20/10.0.1.1/cn/20230422154931/ed7a50c1/update.zip
-  ROM_NAME: flyme10
+  ROM_NAME: flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
